@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rol id="123" nombre="Empleado">
+  <permisos>
+    <permiso tipo="L">
+      <id>229</id>
+      <nombre>Reporte Asistencia</nombre>
+    </permiso>
+    <permiso tipo="LW">
+      <id>381</id>
+      <nombre>Administrar Novedad</nombre>
+    </permiso>
+    <permiso tipo="LW">
+      <id>402</id>
+      <nombre>Datos Personales</nombre>
+    </permiso>
+  </permisos>
+</rol>

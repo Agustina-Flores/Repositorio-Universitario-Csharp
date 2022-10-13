@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<result>
+  <permisos>
+    <permiso tipo="Comision Diaria">
+      <id>229</id>
+      <sector>Forestales</sector>
+      <consejo>NO POSEE</consejo>
+    </permiso>
+    <permiso tipo="Razones Particulares">
+      <id>381</id>
+      <sector>Alumbrado Publico - Mantenimiento</sector>
+      <consejo>NO POSEE</consejo>
+    </permiso>
+  </permisos>
+</result>

@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="asp.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+  <form id="form" runat="server">
+        
+             <asp:Label runat="server" Font-Size="12" Font-Bold="true" Font-Names="verdana">Menú MasterPage</asp:Label><br />
+                <asp:Button runat="server" ID="Guardar" Text="Guardar" OnClick="GuardarButton_Click" />
+                <asp:Button runat="server" ID="Sesion" Text="Sesion" OnClick="SesionButton_Click" /><br />
+                <br />
+                <br />
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+         
+   </form>
+</body>
+</html>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<equipos>
+  <equipo nombre="Sacachispas">
+    <jugador puesto="defensor">
+      <numero>2</numero>
+      <apellido>Matons</apellido>
+      <nombre>Carlos</nombre>
+    </jugador>
+    <jugador puesto="delantero">
+      <numero>9</numero>
+      <apellido>Lopez</apellido>
+      <nombre>Juan Carlos</nombre>
+    </jugador>
+  </equipo>
+</equipos>

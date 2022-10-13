@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="asp.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+  <h3><a href="articuloASP.aspx"> Ver Solo Formulario </a></h3> 
+    <h3><a href="VerDatos.aspx" > Ver Solo Tabla Datos </a></h3>
+     <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+ 
+            </asp:ContentPlaceHolder>
+           <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+</body>
+</html>

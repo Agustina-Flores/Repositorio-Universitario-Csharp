@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <list>
+      <Proveedor>
+         <id>156</id>
+         <codigo>139</codigo>
+         <cuit>30-71175108-0</cuit>
+         <razonSocial>MENDOSUGAR S.A.</razonSocial>
+         <contacto>
+            <telefono>2613654987</telefono>
+         </contacto>
+         <domicilio>
+            <domicilio>Salta 5687, Ciudad de Mendoza - Argentina</domicilio>
+         </domicilio>
+         <saldo>3,573,910.05</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>145</id>
+         <codigo>128</codigo>
+         <cuit>30-71063256-8</cuit>
+         <razonSocial>MENDOZA DISTROPEL S.A.</razonSocial>
+         <contacto>
+            <telefono>2615121795</telefono>
+         </contacto>
+         <saldo>-407,321.60</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>421</id>
+         <cuit>30-71122108-0</cuit>
+         <razonSocial>MIX S.A - FRUTOS SECOS- LUJAN - REMITO</razonSocial>
+         <contacto>
+            <telefono>2616789654</telefono>
+         </contacto>
+         <saldo>-6,171.75</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>543</id>
+         <cuit>30-73335108-0</cuit>
+         <razonSocial>MLM HONGOS</razonSocial>
+         <contacto>
+            <telefono>2615868720</telefono>
+            <email>LFMARCHIORI@GMAIL.COM</email>
+         </contacto>
+         <saldo>-5,550.00</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>435</id>
+         <cuit>30-55175108-0</cuit>
+         <razonSocial>MORENO SRL</razonSocial>
+         <contacto>
+            <telefono>2615121722</telefono>
+         </contacto>
+         <saldo>-0.04</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>143</id>
+         <codigo>126</codigo>
+         <cuit>20-24486270-6</cuit>
+         <razonSocial>MORETTI DANIEL EMILIO</razonSocial>
+         <contacto>
+            <telefono>2615403333</telefono>
+         </contacto>
+         <saldo>-377,912.28</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>427</id>
+         <cuit>30-71211501-3</cuit>
+         <razonSocial>MOYCO S.R.L.</razonSocial>
+         <contacto>
+            <telefono>2615121733</telefono>
+            <email>info@azucel.com</email>
+         </contacto>
+         <domicilio>
+            <domicilio>RUTA PROVINCIAL 328 KM 0.8 TUCUMAN -  PROVINCIA DE TUCUMAN - TUCUMAN - Argentina</domicilio>
+         </domicilio>
+         <saldo>-497,412.00</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>531</id>
+         <cuit>30-53256656-7</cuit>
+         <razonSocial>MULINI - COOP. AGRICOLA GANADERA LOS MOLINOS LTDA</razonSocial>
+         <contacto>
+            <telefono>2615121744</telefono>
+         </contacto>
+         <domicilio>
+            <domicilio>SAN MARTIN 277 SANTA FE (CAPITAL) -  PROVINCIA DE SANTA FE - SANTA FE - Argentina</domicilio>
+         </domicilio>
+         <saldo>-378,670.89</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>157</id>
+         <codigo>140</codigo>
+         <cuit>30-71461801-2</cuit>
+         <razonSocial>MUSKA S.A.</razonSocial>
+         <contacto>
+            <telefono>2615555595</telefono>
+         </contacto>
+         <saldo>-945,206.93</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>415</id>
+         <codigo>1310</codigo>
+         <cuit>30-91461801-2</cuit>
+         <razonSocial>NELSON BRENDEL</razonSocial>
+         <contacto>
+            <telefono>261444495</telefono>
+         </contacto>
+         <saldo>-14,333.33</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>219</id>
+         <codigo>435</codigo>
+         <cuit>30-33461801-2</cuit>
+         <razonSocial>NESCAFE - REMITO</razonSocial>
+         <contacto>
+            <telefono>5246138</telefono>
+         </contacto>
+         <saldo>-9,312.96</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>305</id>
+         <codigo>1608</codigo>
+         <cuit>30-71463331-2</cuit>
+         <razonSocial>NICOLAS ISOLA</razonSocial>
+         <contacto>
+            <telefono>2612129410</telefono>
+         </contacto>
+         <saldo>-18,000.00</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>244</id>
+         <codigo>460</codigo>
+         <cuit>30-71073490-5</cuit>
+         <razonSocial>NOVAG S.R.L.</razonSocial>
+         <contacto>
+            <telefono>153862000</telefono>
+            <email>limpiezanovag@gmail.com</email>
+         </contacto>
+         <domicilio>
+            <domicilio>TERULAY 387 VILLA NUEVA -  GUAYMALLEN - MENDOZA - Argentina</domicilio>
+         </domicilio>
+         <saldo>-0.00</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>368</id>
+         <codigo>912</codigo>
+         <cuit>02-70927107-1</cuit>
+         <razonSocial>OFIMAX DE ECAN S.R.L. - FABIO - LUJAN</razonSocial>
+         <contacto>
+            <telefono>2615188795</telefono>
+         </contacto>
+         <saldo>-143,388.93</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>367</id>
+         <codigo>911</codigo>
+         <cuit>01-70927107-1</cuit>
+         <razonSocial>OFIMAX DE ECAN S.R.L. - MATIAS - CAPITAL</razonSocial>
+         <contacto>
+            <telefono>2613438115</telefono>
+         </contacto>
+         <saldo>-35,230.11</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>176</id>
+         <codigo>159</codigo>
+         <cuit>20-10036636-4</cuit>
+         <razonSocial>ONCE OLIVAS</razonSocial>
+         <contacto>
+            <telefono>2613008386</telefono>
+            <email>onceolivas@gmail.com</email>
+         </contacto>
+         <saldo>9,666.01</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>146</id>
+         <codigo>129</codigo>
+         <cuit>20-08158550-5</cuit>
+         <razonSocial>OSCAR RUBEN DAVID</razonSocial>
+         <contacto>
+            <telefono>2615673340</telefono>
+         </contacto>
+         <saldo>-246,921.21</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>193</id>
+         <codigo>409</codigo>
+         <cuit>30-71551801-2</cuit>
+         <razonSocial>PANADERIA INDEPENDENCIA - REMITO</razonSocial>
+         <contacto>
+            <telefono>2615267150</telefono>
+         </contacto>
+         <saldo>8,513.70</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>200</id>
+         <codigo>416</codigo>
+         <cuit>20-17119578-1</cuit>
+         <razonSocial>PANADERIA PATRICIA - REMITO</razonSocial>
+         <contacto>
+            <telefono>2614789654</telefono>
+            <email>miguevaldez@live.com</email>
+         </contacto>
+         <domicilio>
+            <domicilio>DONADO  915 BARRIO URQUIZA LUJAN DE CUYO -  LUJAN DE CUYO - MENDOZA - Argentina</domicilio>
+         </domicilio>
+         <saldo>-32,303.86</saldo>
+      </Proveedor>
+      <Proveedor>
+         <id>494</id>
+         <cuit>27-33051095-7</cuit>
+         <razonSocial>PANADERIA SABORES PROPIOS</razonSocial>
+         <contacto>
+            <telefono>2615116587 - 2615265026</telefono>
+            <email>natuli_martinez@hotmail.com</email>
+         </contacto>
+         <domicilio>
+            <domicilio>SEBASTIAN GABOTO 442 CAPITAL -  CAPITAL - MENDOZA - Argentina</domicilio>
+         </domicilio>
+         <saldo>-1,525.00</saldo>
+      </Proveedor>
+   </list>
+</root>
