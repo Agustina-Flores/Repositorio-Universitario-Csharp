@@ -1,4 +1,4 @@
-# Repositorio-universitario--C#
+# Repositorio-Universitario--C#
 Examenes y Ejercicios realizados en UTN (Argentina,Mendoza)
 
 Temas : C#: Programación Orientada a Objetos, ASP.NET, 
